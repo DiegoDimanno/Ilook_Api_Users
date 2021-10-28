@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\bin\Debug\net5.0\EFCore.Repository.deps.json
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\bin\Debug\net5.0\EFCore.Repository.dll
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\bin\Debug\net5.0\ref\EFCore.Repository.dll
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\bin\Debug\net5.0\EFCore.Repository.pdb
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\bin\Debug\net5.0\EFCore.Dominio.dll
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\bin\Debug\net5.0\EFCore.Dominio.pdb
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\obj\Debug\net5.0\EFCore.Repository.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\obj\Debug\net5.0\EFCore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\obj\Debug\net5.0\EFCore.Repository.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\obj\Debug\net5.0\EFCore.Repository.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\obj\Debug\net5.0\EFCore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\obj\Debug\net5.0\EFCore.Repository.csproj.CopyComplete
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\obj\Debug\net5.0\EFCore.Repository.dll
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\obj\Debug\net5.0\ref\EFCore.Repository.dll
+C:\Users\diego\OneDrive\Documentos\Dev\Ilook_Api_Users\EFCore.Repository\obj\Debug\net5.0\EFCore.Repository.pdb
